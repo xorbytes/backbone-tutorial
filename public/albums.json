@@ -1,0 +1,24 @@
+[{
+    "title": "在路上…",
+    "artist": "许巍",
+    "tracks": [{
+        "title": "执着",
+        "url": "/music/执着.mp3"
+    }]
+},
+{
+    "title": "2004 我在身边 新加坡演唱会",
+    "artist": "小刚",
+    "tracks": [{
+        "title": "暖风",
+        "url": "/music/暖风.mp3"
+    },
+    {
+        "title": "我的心太乱",
+        "url": "/music/jazz.mp3"
+    },
+    {
+        "title": "记事本",
+        "url": "/music/记事本.mp3"
+    }]
+}]
